@@ -22,7 +22,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 The dataset is from survey which was done back in 2023, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ## Dashboard 
-The Dashboard can be used by downloading the Excel file from the link https://github.com/Gitika-26/Data-Science-Job-Insights/blob/main/project_copy.xlsx
+The Dashboard can be used by downloading the Excel file from the link https://github.com/gitika2025/DS-Jobs-Analytics/blob/main/Data_Science_Job_Dashboard.xlsx
 
 ## Excel Skill Used
 - **📉 Charts**
